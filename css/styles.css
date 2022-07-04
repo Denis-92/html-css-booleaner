@@ -1,0 +1,16 @@
+#logo {
+    background-color: #4ea0ff;
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+}
+
+.pattern {
+    height: 200%;
+    width: auto;
+    background-repeat:repeat-y
+}
+
+.booleaner {
+    width: 20%;
+}
