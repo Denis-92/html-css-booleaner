@@ -53,4 +53,9 @@ p {
 
 .page {
     margin: 0 18%;
+    background-color: white;
+}
+
+body {
+    background-color: black;
 }
