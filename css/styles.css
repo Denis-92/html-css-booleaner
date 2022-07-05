@@ -39,3 +39,9 @@ span {
 p {
     text-align: justify;
 }
+
+.author {
+    background-color: white;
+    color: blue;
+    font-weight: bold;
+}
