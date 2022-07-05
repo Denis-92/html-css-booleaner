@@ -27,3 +27,11 @@
 .graph {
     width: 25%;
 }
+
+h3 {
+    color: grey;
+}
+
+span {
+    background-color: yellow;
+}
