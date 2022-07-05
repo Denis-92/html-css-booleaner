@@ -43,6 +43,7 @@ span {
 
 p {
     text-align: justify;
+    margin: 1% 0;
 }
 
 .author {
@@ -77,4 +78,8 @@ h1 {
 .tim-two {
     display: inline-block;
     width: 45%;
+}
+
+.date {
+    font-size: 70%;
 }
