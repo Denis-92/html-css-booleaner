@@ -59,3 +59,12 @@ p {
 body {
     background-color: black;
 }
+
+article {
+    margin: 1%;
+}
+
+h1 {
+    font-size: 200%;
+    font-weight: 900; /* not working */
+}
