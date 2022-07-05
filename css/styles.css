@@ -68,3 +68,13 @@ h1 {
     font-size: 200%;
     font-weight: 900; /* not working */
 }
+
+.tim-one {
+    display: inline-block;
+    width: 53%;
+}
+
+.tim-two {
+    display: inline-block;
+    width: 45%;
+}
