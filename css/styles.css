@@ -35,3 +35,7 @@ h3 {
 span {
     background-color: yellow;
 }
+
+p {
+    text-align: justify;
+}
